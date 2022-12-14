@@ -1,0 +1,1001 @@
+,gender,birthyear_group,Continent,current_country,cc_status,BMI_group,n_drink_week_groups,n_cigret_week_groups,edulevel_groups,countries_visited_groups
+0,F,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,6-7,201-300,high_ed,Over 30
+1,M,Over 1980,other,United Kingdom,0,weight_within_normal_limits,0,11-50,low_ed,Over 30
+2,F,Over 1980,America,United Kingdom,0,overweight,8-10,51-100,high_ed,6-10
+3,F,Over 1980,Africa,United Kingdom,0,overweight,3-5,201-300,low_ed,Over 30
+4,F,1955-1980,America,United Kingdom,0,overweight,3-5,Over 300,low_ed,Over 30
+5,F,1955-1980,America,United Kingdom,0,underweight,6-7,201-300,low_ed,6-10
+6,M,Over 1980,other,United Kingdom,0,,3-5,51-100,low_ed,Over 30
+7,M,Over 1980,America,United Kingdom,0,underweight,8-10,11-50,low_ed,11-30
+8,F,Over 1980,other,United Kingdom,0,,1-2,101-200,low_ed,11-30
+9,M,Over 1980,America,United Kingdom,0,overweight,6-7,11-50,high_ed,Over 30
+10,M,1955-1980,other,United Kingdom,0,underweight,1-2,201-300,low_ed,Over 30
+11,M,Over 1980,America,United Kingdom,0,underweight,3-5,201-300,high_ed,11-30
+12,M,Over 1980,America,United Kingdom,1,underweight,3-5,Over 300,low_ed,Over 30
+13,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,Over 30
+14,M,Over 1980,Asia,United Kingdom,0,,3-5,51-100,low_ed,11-30
+15,F,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,101-200,low_ed,Over 30
+16,F,1955-1980,other,United Kingdom,0,underweight,8-10,51-100,high_ed,6-10
+17,F,1955-1980,Asia,United Kingdom,0,overweight,3-5,11-50,high_ed,11-30
+18,F,Over 1980,America,United Kingdom,0,overweight,3-5,Over 300,low_ed,11-30
+19,M,Over 1980,other,United Kingdom,0,underweight,3-5,Over 300,high_ed,0-5
+20,M,Over 1980,Asia,United Kingdom,0,,6-7,201-300,high_ed,Over 30
+21,M,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,201-300,low_ed,11-30
+22,M,1955-1980,Asia,United Kingdom,0,underweight,1-2,11-50,low_ed,Over 30
+23,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,6-7,101-200,low_ed,Over 30
+24,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,8-10,101-200,high_ed,11-30
+25,F,Over 1980,other,United Kingdom,0,underweight,3-5,101-200,low_ed,0-5
+26,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,low_ed,11-30
+27,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,1-2,201-300,low_ed,Over 30
+28,F,Over 1980,America,United Kingdom,0,,6-7,Over 300,low_ed,11-30
+29,M,Over 1980,Africa,United Kingdom,0,overweight,3-5,201-300,low_ed,11-30
+30,F,Over 1980,Europe,United Kingdom,0,underweight,8-10,Over 300,high_ed,Over 30
+31,F,Over 1980,Africa,United Kingdom,0,overweight,3-5,51-100,low_ed,11-30
+32,M,1955-1980,Europe,United Kingdom,0,overweight,1-2,201-300,low_ed,6-10
+33,F,1955-1980,America,United Kingdom,1,overweight,3-5,11-50,low_ed,11-30
+34,M,1955-1980,Europe,United Kingdom,0,,1-2,11-50,low_ed,Over 30
+35,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,51-100,low_ed,11-30
+36,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,51-100,high_ed,0-5
+37,F,1955-1980,Africa,United Kingdom,0,,6-7,101-200,low_ed,11-30
+38,M,Over 1980,America,United Kingdom,0,,3-5,201-300,low_ed,Over 30
+39,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,51-100,low_ed,Over 30
+40,M,Over 1980,Asia,United Kingdom,0,overweight,3-5,Over 300,low_ed,Over 30
+41,F,1955-1980,America,United Kingdom,0,underweight,3-5,51-100,high_ed,Over 30
+42,M,Over 1980,Europe,United Kingdom,0,,6-7,Over 300,low_ed,Over 30
+43,M,1955-1980,Europe,United Kingdom,0,overweight,3-5,Over 300,low_ed,Over 30
+44,M,1955-1980,Europe,United Kingdom,0,underweight,8-10,11-50,low_ed,Over 30
+45,M,Over 1980,Europe,United Kingdom,0,underweight,0,201-300,low_ed,11-30
+46,M,Over 1980,other,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,low_ed,11-30
+47,M,Over 1980,Asia,United Kingdom,0,underweight,8-10,101-200,low_ed,Over 30
+48,M,Over 1980,Africa,United Kingdom,0,overweight,3-5,Over 300,low_ed,11-30
+49,F,Over 1980,America,United Kingdom,0,underweight,8-10,Over 300,low_ed,Over 30
+50,M,1955-1980,Asia,United Kingdom,1,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+51,F,Over 1980,other,United Kingdom,0,weight_within_normal_limits,3-5,51-100,low_ed,11-30
+52,F,1955-1980,Asia,United Kingdom,0,underweight,8-10,Over 300,high_ed,Over 30
+53,F,1955-1980,America,United Kingdom,1,,1-2,201-300,low_ed,Over 30
+54,M,1955-1980,Africa,United Kingdom,0,,6-7,Over 300,low_ed,11-30
+55,M,1955-1980,Europe,United Kingdom,0,overweight,3-5,101-200,low_ed,Over 30
+56,M,Over 1980,Europe,United Kingdom,0,,3-5,51-100,low_ed,Over 30
+57,F,Over 1980,other,United Kingdom,0,,6-7,Over 300,low_ed,11-30
+58,M,1955-1980,Europe,United Kingdom,0,underweight,8-10,11-50,low_ed,0-5
+59,M,1955-1980,other,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,high_ed,Over 30
+60,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,0,Over 300,high_ed,11-30
+61,M,Over 1980,Europe,United Kingdom,0,underweight,6-7,11-50,low_ed,11-30
+62,F,Over 1980,America,United Kingdom,0,,8-10,201-300,low_ed,11-30
+63,F,1955-1980,Africa,United Kingdom,0,overweight,1-2,101-200,low_ed,11-30
+64,M,1955-1980,Asia,United Kingdom,0,underweight,6-7,201-300,low_ed,Over 30
+65,M,Over 1980,other,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,11-30
+66,M,Over 1980,Asia,United Kingdom,1,weight_within_normal_limits,8-10,51-100,low_ed,Over 30
+67,M,1955-1980,Asia,United Kingdom,0,overweight,6-7,101-200,low_ed,11-30
+68,F,1955-1980,other,United Kingdom,0,underweight,6-7,101-200,low_ed,11-30
+69,F,Over 1980,America,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,6-10
+70,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,8-10,51-100,low_ed,11-30
+71,F,Over 1980,other,United Kingdom,0,weight_within_normal_limits,3-5,51-100,high_ed,Over 30
+72,F,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,low_ed,11-30
+73,M,1955-1980,Africa,United Kingdom,0,,1-2,101-200,low_ed,11-30
+74,F,1955-1980,Asia,United Kingdom,0,overweight,3-5,Over 300,low_ed,Over 30
+75,F,Over 1980,Asia,United Kingdom,0,,3-5,101-200,low_ed,Over 30
+76,M,1955-1980,Africa,United Kingdom,0,overweight,0,Over 300,low_ed,11-30
+77,M,1955-1980,Asia,United Kingdom,0,overweight,6-7,Over 300,low_ed,11-30
+78,M,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,0,11-50,high_ed,6-10
+79,F,Over 1980,Europe,United Kingdom,0,overweight,3-5,201-300,low_ed,Over 30
+80,F,Over 1980,Europe,United Kingdom,0,underweight,8-10,Over 300,low_ed,Over 30
+81,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,11-30
+82,M,1955-1980,Europe,United Kingdom,0,underweight,1-2,Over 300,low_ed,Over 30
+83,F,1955-1980,Asia,United Kingdom,1,overweight,8-10,201-300,low_ed,Over 30
+84,M,Over 1980,other,United Kingdom,0,weight_within_normal_limits,3-5,201-300,low_ed,Over 30
+85,F,Over 1980,Africa,United Kingdom,1,underweight,6-7,101-200,low_ed,6-10
+86,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,51-100,low_ed,Over 30
+87,F,1955-1980,other,United Kingdom,0,underweight,3-5,51-100,high_ed,11-30
+88,F,1955-1980,Europe,United Kingdom,0,overweight,3-5,101-200,low_ed,0-5
+89,F,1955-1980,Africa,United Kingdom,0,underweight,8-10,101-200,high_ed,Over 30
+90,M,Over 1980,Asia,United Kingdom,0,underweight,3-5,51-100,low_ed,Over 30
+91,F,1955-1980,Africa,United Kingdom,0,underweight,3-5,Over 300,low_ed,Over 30
+92,F,1955-1980,America,United Kingdom,0,,6-7,Over 300,low_ed,Over 30
+93,M,1955-1980,Asia,United Kingdom,0,overweight,1-2,Over 300,low_ed,Over 30
+94,F,1955-1980,other,United Kingdom,0,weight_within_normal_limits,8-10,1-10,high_ed,Over 30
+95,F,Over 1980,Asia,United Kingdom,0,,8-10,Over 300,low_ed,11-30
+96,F,Over 1980,Europe,United Kingdom,1,weight_within_normal_limits,3-5,Over 300,low_ed,11-30
+97,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,11-30
+98,F,Over 1980,Africa,United Kingdom,0,,8-10,51-100,high_ed,11-30
+99,M,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,11-30
+100,F,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,51-100,low_ed,6-10
+101,M,Over 1980,America,United Kingdom,0,underweight,8-10,201-300,low_ed,11-30
+102,F,1955-1980,Africa,United Kingdom,0,overweight,8-10,201-300,high_ed,Over 30
+103,M,1955-1980,America,United Kingdom,0,underweight,3-5,11-50,low_ed,Over 30
+104,M,Over 1980,Europe,United Kingdom,0,underweight,3-5,11-50,high_ed,11-30
+105,M,Over 1980,America,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+106,M,1955-1980,other,United Kingdom,0,weight_within_normal_limits,8-10,101-200,high_ed,6-10
+107,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,0,Over 300,high_ed,6-10
+108,F,1955-1980,Europe,United Kingdom,0,,3-5,101-200,high_ed,Over 30
+109,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,Over 30
+110,M,1955-1980,Africa,United Kingdom,0,underweight,0,201-300,low_ed,11-30
+111,F,1955-1980,America,United Kingdom,0,underweight,0,Over 300,low_ed,0-5
+112,M,1955-1980,Europe,United Kingdom,1,,3-5,11-50,low_ed,11-30
+113,M,1955-1980,Europe,United Kingdom,0,,6-7,Over 300,high_ed,Over 30
+114,M,1955-1980,America,United Kingdom,0,,0,Over 300,low_ed,Over 30
+115,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,1-2,101-200,high_ed,Over 30
+116,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,8-10,101-200,low_ed,11-30
+117,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,201-300,high_ed,11-30
+118,M,Over 1980,Asia,United Kingdom,0,,8-10,Over 300,low_ed,0-5
+119,F,Over 1980,America,United Kingdom,0,underweight,3-5,Over 300,high_ed,11-30
+120,M,Over 1980,Asia,United Kingdom,0,underweight,6-7,11-50,high_ed,Over 30
+121,F,1955-1980,Asia,United Kingdom,0,underweight,0,Over 300,low_ed,Over 30
+122,F,Over 1980,Africa,United Kingdom,0,underweight,8-10,Over 300,high_ed,11-30
+123,M,1955-1980,Europe,United Kingdom,0,overweight,3-5,51-100,low_ed,11-30
+124,F,1955-1980,Asia,United Kingdom,0,overweight,8-10,Over 300,low_ed,Over 30
+125,F,1955-1980,America,United Kingdom,1,,,51-100,low_ed,11-30
+126,F,1955-1980,Europe,United Kingdom,0,overweight,8-10,51-100,low_ed,11-30
+127,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+128,M,Over 1980,other,United Kingdom,0,weight_within_normal_limits,8-10,51-100,high_ed,Over 30
+129,M,1955-1980,Europe,United Kingdom,0,,6-7,201-300,high_ed,Over 30
+130,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,6-7,101-200,low_ed,Over 30
+131,M,Over 1980,Africa,United Kingdom,0,overweight,1-2,101-200,high_ed,Over 30
+132,F,Over 1980,other,United Kingdom,0,weight_within_normal_limits,3-5,101-200,high_ed,Over 30
+133,M,,Africa,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,11-30
+134,F,1955-1980,Europe,United Kingdom,0,underweight,8-10,Over 300,low_ed,Over 30
+135,F,1955-1980,Asia,United Kingdom,0,underweight,8-10,Over 300,low_ed,6-10
+136,F,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,6-7,51-100,low_ed,6-10
+137,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,0,11-50,low_ed,6-10
+138,F,Over 1980,America,United Kingdom,0,overweight,6-7,Over 300,low_ed,Over 30
+139,F,1955-1980,America,United Kingdom,0,,3-5,Over 300,high_ed,Over 30
+140,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,Over 30
+141,F,Over 1980,Europe,United Kingdom,0,underweight,8-10,Over 300,high_ed,11-30
+142,F,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,0,101-200,low_ed,6-10
+143,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,101-200,low_ed,Over 30
+144,F,Over 1980,other,United Kingdom,0,,3-5,201-300,high_ed,Over 30
+145,F,1955-1980,Asia,United Kingdom,0,underweight,8-10,11-50,low_ed,6-10
+146,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,0-5
+147,M,Over 1980,other,United Kingdom,0,weight_within_normal_limits,0,Over 300,low_ed,11-30
+148,F,1955-1980,Africa,United Kingdom,0,overweight,6-7,101-200,low_ed,11-30
+149,F,1955-1980,America,United Kingdom,0,overweight,1-2,101-200,low_ed,Over 30
+150,M,1955-1980,Asia,United Kingdom,0,underweight,0,11-50,low_ed,Over 30
+151,F,Over 1980,Europe,United Kingdom,0,,6-7,Over 300,low_ed,11-30
+152,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,0,51-100,high_ed,6-10
+153,F,1955-1980,Africa,United Kingdom,0,underweight,8-10,201-300,low_ed,11-30
+154,F,1955-1980,Europe,United Kingdom,0,underweight,6-7,101-200,low_ed,Over 30
+155,F,Over 1980,Asia,United Kingdom,0,overweight,3-5,101-200,low_ed,11-30
+156,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,6-7,101-200,high_ed,Over 30
+157,M,Over 1980,Asia,United Kingdom,0,underweight,1-2,Over 300,low_ed,6-10
+158,M,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,201-300,low_ed,11-30
+159,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,high_ed,Over 30
+160,M,1955-1980,Europe,United Kingdom,0,underweight,0,Over 300,high_ed,Over 30
+161,F,Over 1980,other,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+162,F,Over 1980,Africa,United Kingdom,0,overweight,8-10,Over 300,high_ed,11-30
+163,M,1955-1980,Europe,United Kingdom,0,,3-5,Over 300,low_ed,11-30
+164,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,11-50,low_ed,Over 30
+165,F,1955-1980,Africa,United Kingdom,0,,3-5,Over 300,low_ed,Over 30
+166,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,201-300,high_ed,11-30
+167,M,1955-1980,other,United Kingdom,0,weight_within_normal_limits,8-10,201-300,low_ed,11-30
+168,M,1955-1980,Africa,United Kingdom,0,,8-10,101-200,low_ed,Over 30
+169,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,1-2,201-300,low_ed,Over 30
+170,M,Over 1980,Europe,United Kingdom,1,,8-10,Over 300,low_ed,Over 30
+171,M,1955-1980,other,United Kingdom,0,,3-5,101-200,high_ed,11-30
+172,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,51-100,high_ed,0-5
+173,M,1955-1980,Europe,United Kingdom,0,,0,201-300,low_ed,11-30
+174,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,101-200,low_ed,0-5
+175,M,1955-1980,Europe,United Kingdom,0,overweight,8-10,Over 300,high_ed,Over 30
+176,F,Over 1980,Africa,United Kingdom,0,,1-2,Over 300,high_ed,11-30
+177,M,Over 1980,Asia,United Kingdom,0,,8-10,51-100,low_ed,11-30
+178,M,1955-1980,America,United Kingdom,0,,1-2,Over 300,high_ed,Over 30
+179,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,8-10,11-50,low_ed,6-10
+180,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,Over 30
+181,F,1955-1980,America,United Kingdom,0,,3-5,201-300,high_ed,6-10
+182,F,1955-1980,Asia,United Kingdom,0,underweight,3-5,Over 300,low_ed,Over 30
+183,M,1955-1980,other,United Kingdom,0,underweight,1-2,201-300,high_ed,11-30
+184,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,201-300,low_ed,11-30
+185,M,Over 1980,Europe,United Kingdom,0,,8-10,Over 300,low_ed,11-30
+186,F,1955-1980,other,United Kingdom,0,,3-5,Over 300,high_ed,Over 30
+187,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,8-10,201-300,low_ed,6-10
+188,F,1955-1980,Asia,United Kingdom,0,underweight,6-7,201-300,high_ed,Over 30
+189,F,Over 1980,America,United Kingdom,0,underweight,3-5,101-200,low_ed,Over 30
+190,M,Over 1980,Africa,United Kingdom,0,underweight,1-2,101-200,high_ed,11-30
+191,F,1955-1980,Asia,United Kingdom,0,,8-10,51-100,low_ed,6-10
+192,M,Over 1980,Africa,United Kingdom,0,underweight,0,101-200,low_ed,11-30
+193,F,1955-1980,other,United Kingdom,0,underweight,3-5,Over 300,high_ed,Over 30
+194,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,6-10
+195,M,Over 1980,America,United Kingdom,0,,3-5,Over 300,low_ed,Over 30
+196,M,1955-1980,Africa,United Kingdom,1,weight_within_normal_limits,3-5,Over 300,low_ed,11-30
+197,F,1955-1980,Europe,United Kingdom,0,underweight,0,Over 300,high_ed,11-30
+198,F,Over 1980,America,United Kingdom,0,,3-5,Over 300,low_ed,Over 30
+199,F,1955-1980,Asia,United Kingdom,0,overweight,8-10,201-300,high_ed,11-30
+200,F,1955-1980,other,United Kingdom,0,,3-5,201-300,low_ed,11-30
+201,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,0-5
+202,F,Over 1980,Asia,United Kingdom,1,,8-10,Over 300,low_ed,Over 30
+203,F,1955-1980,other,United Kingdom,0,overweight,3-5,Over 300,high_ed,11-30
+204,F,1955-1980,America,United Kingdom,0,,8-10,51-100,low_ed,Over 30
+205,F,1955-1980,Africa,United Kingdom,0,,1-2,101-200,low_ed,11-30
+206,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,low_ed,11-30
+207,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,201-300,high_ed,Over 30
+208,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,low_ed,Over 30
+209,M,1955-1980,America,United Kingdom,0,underweight,1-2,Over 300,low_ed,Over 30
+210,F,Over 1980,America,United Kingdom,0,overweight,6-7,Over 300,high_ed,0-5
+211,F,Over 1980,other,United Kingdom,0,overweight,6-7,Over 300,low_ed,Over 30
+212,F,1955-1980,Africa,United Kingdom,0,underweight,3-5,101-200,low_ed,11-30
+213,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,1-2,1-10,low_ed,11-30
+214,M,1955-1980,Asia,United Kingdom,0,,1-2,101-200,high_ed,6-10
+215,F,Over 1980,America,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,low_ed,Over 30
+216,F,1955-1980,Europe,United Kingdom,0,underweight,8-10,Over 300,high_ed,11-30
+217,F,Over 1980,Europe,United Kingdom,0,overweight,3-5,101-200,low_ed,Over 30
+218,F,Over 1980,Europe,United Kingdom,0,overweight,1-2,Over 300,low_ed,Over 30
+219,M,Over 1980,other,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,high_ed,6-10
+220,F,1955-1980,Asia,United Kingdom,0,underweight,3-5,101-200,low_ed,Over 30
+221,F,1955-1980,America,United Kingdom,0,,3-5,Over 300,high_ed,11-30
+222,F,,America,United Kingdom,0,,3-5,Over 300,low_ed,11-30
+223,M,Over 1980,other,United Kingdom,0,weight_within_normal_limits,1-2,11-50,low_ed,11-30
+224,M,Over 1980,Asia,United Kingdom,0,underweight,1-2,101-200,high_ed,Over 30
+225,M,Over 1980,Asia,United Kingdom,0,underweight,6-7,Over 300,low_ed,6-10
+226,F,1955-1980,Africa,United Kingdom,0,overweight,3-5,Over 300,low_ed,11-30
+227,F,1955-1980,Africa,United Kingdom,0,overweight,8-10,11-50,low_ed,0-5
+228,F,1955-1980,America,United Kingdom,0,,8-10,201-300,low_ed,11-30
+229,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,51-100,high_ed,Over 30
+230,M,1955-1980,America,United Kingdom,0,,3-5,201-300,low_ed,Over 30
+231,F,1955-1980,America,United Kingdom,0,underweight,8-10,Over 300,low_ed,11-30
+232,F,Over 1980,Asia,United Kingdom,0,overweight,8-10,101-200,low_ed,11-30
+233,M,Over 1980,Europe,United Kingdom,0,,6-7,201-300,low_ed,Over 30
+234,F,Over 1980,Asia,United Kingdom,1,weight_within_normal_limits,1-2,101-200,low_ed,Over 30
+235,F,1955-1980,Asia,United Kingdom,0,,8-10,101-200,low_ed,11-30
+236,F,Over 1980,Europe,United Kingdom,0,underweight,3-5,51-100,high_ed,Over 30
+237,F,Over 1980,Africa,United Kingdom,0,underweight,1-2,101-200,high_ed,11-30
+238,M,1955-1980,other,United Kingdom,0,overweight,3-5,Over 300,high_ed,Over 30
+239,F,Over 1980,Africa,United Kingdom,0,,6-7,101-200,low_ed,11-30
+240,M,Over 1980,other,United Kingdom,0,weight_within_normal_limits,8-10,201-300,low_ed,Over 30
+241,F,1955-1980,Africa,United Kingdom,0,overweight,0,Over 300,high_ed,11-30
+242,F,1955-1980,Europe,United Kingdom,0,,3-5,Over 300,high_ed,11-30
+243,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,11-30
+244,M,1955-1980,Europe,United Kingdom,0,underweight,8-10,101-200,high_ed,Over 30
+245,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,6-7,11-50,low_ed,11-30
+246,F,Over 1980,Africa,United Kingdom,0,overweight,8-10,Over 300,low_ed,0-5
+247,F,1955-1980,Asia,United Kingdom,1,weight_within_normal_limits,8-10,Over 300,high_ed,11-30
+248,M,1955-1980,other,United Kingdom,0,,3-5,51-100,low_ed,Over 30
+249,F,1955-1980,America,United Kingdom,0,underweight,8-10,Over 300,low_ed,Over 30
+250,F,1955-1980,America,United Kingdom,0,,8-10,101-200,high_ed,Over 30
+251,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,low_ed,Over 30
+252,M,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,1-2,101-200,high_ed,11-30
+253,M,Over 1980,Asia,United Kingdom,0,,8-10,201-300,low_ed,Over 30
+254,F,1955-1980,America,United Kingdom,0,underweight,0,101-200,high_ed,11-30
+255,F,Over 1980,Asia,United Kingdom,0,underweight,6-7,Over 300,high_ed,11-30
+256,M,1955-1980,Africa,United Kingdom,0,,3-5,Over 300,high_ed,11-30
+257,M,1955-1980,Europe,United Kingdom,1,underweight,3-5,101-200,high_ed,6-10
+258,F,1955-1980,other,United Kingdom,0,overweight,3-5,Over 300,low_ed,11-30
+259,M,Over 1980,Africa,United Kingdom,0,underweight,8-10,11-50,low_ed,Over 30
+260,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,51-100,low_ed,11-30
+261,M,Over 1980,other,United Kingdom,0,underweight,8-10,101-200,low_ed,Over 30
+262,M,Over 1980,other,United Kingdom,0,underweight,3-5,201-300,high_ed,Over 30
+263,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,11-30
+264,F,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,51-100,low_ed,6-10
+265,M,1955-1980,America,United Kingdom,0,,8-10,Over 300,high_ed,11-30
+266,M,1955-1980,America,United Kingdom,0,underweight,6-7,Over 300,high_ed,0-5
+267,F,1955-1980,Europe,United Kingdom,0,,1-2,11-50,high_ed,Over 30
+268,F,1955-1980,Africa,United Kingdom,0,,1-2,101-200,low_ed,11-30
+269,F,Over 1980,Africa,United Kingdom,0,,0,201-300,low_ed,Over 30
+270,F,1955-1980,Asia,United Kingdom,0,overweight,8-10,101-200,low_ed,6-10
+271,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,high_ed,11-30
+272,F,Over 1980,Africa,United Kingdom,0,overweight,3-5,201-300,low_ed,Over 30
+273,M,Over 1980,Africa,United Kingdom,0,,0,Over 300,high_ed,Over 30
+274,M,1955-1980,America,United Kingdom,0,,3-5,Over 300,low_ed,0-5
+275,F,1955-1980,Africa,United Kingdom,0,underweight,0,201-300,low_ed,Over 30
+276,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,low_ed,Over 30
+277,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,high_ed,11-30
+278,F,1955-1980,Africa,United Kingdom,0,,3-5,101-200,high_ed,Over 30
+279,F,Over 1980,America,United Kingdom,0,weight_within_normal_limits,6-7,201-300,low_ed,11-30
+280,M,1955-1980,Asia,United Kingdom,0,overweight,3-5,Over 300,low_ed,11-30
+281,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,11-30
+282,F,1955-1980,Europe,United Kingdom,0,overweight,8-10,101-200,high_ed,Over 30
+283,F,Over 1980,Europe,United Kingdom,0,,8-10,Over 300,low_ed,Over 30
+284,F,1955-1980,Asia,United Kingdom,0,,8-10,101-200,low_ed,11-30
+285,M,1955-1980,other,United Kingdom,0,overweight,3-5,Over 300,low_ed,6-10
+286,F,1955-1980,Asia,United Kingdom,0,,8-10,201-300,high_ed,Over 30
+287,F,1955-1980,other,United Kingdom,0,,3-5,201-300,low_ed,11-30
+288,M,Over 1980,other,United Kingdom,0,underweight,1-2,Over 300,high_ed,6-10
+289,F,1955-1980,Africa,United Kingdom,0,,8-10,Over 300,low_ed,11-30
+290,F,1955-1980,Asia,United Kingdom,0,overweight,3-5,11-50,low_ed,Over 30
+291,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,high_ed,11-30
+292,F,Over 1980,Asia,United Kingdom,0,,3-5,Over 300,high_ed,11-30
+293,M,1955-1980,Africa,United Kingdom,0,underweight,8-10,101-200,high_ed,11-30
+294,F,Over 1980,America,United Kingdom,0,,6-7,11-50,low_ed,Over 30
+295,M,Over 1980,America,United Kingdom,0,underweight,3-5,201-300,low_ed,Over 30
+296,M,1955-1980,Asia,United Kingdom,0,overweight,3-5,201-300,high_ed,11-30
+297,F,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,high_ed,Over 30
+298,M,Over 1980,other,United Kingdom,0,overweight,6-7,Over 300,low_ed,11-30
+299,F,Over 1980,Europe,United Kingdom,0,,3-5,Over 300,high_ed,6-10
+300,M,1955-1980,America,United Kingdom,0,overweight,3-5,51-100,high_ed,Over 30
+301,F,Over 1980,Africa,United Kingdom,0,,1-2,101-200,high_ed,Over 30
+302,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,11-30
+303,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,11-50,low_ed,11-30
+304,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,high_ed,11-30
+305,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,3-5,51-100,low_ed,11-30
+306,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,51-100,high_ed,11-30
+307,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,101-200,high_ed,6-10
+308,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,51-100,low_ed,6-10
+309,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,high_ed,6-10
+310,F,1955-1980,Asia,United Kingdom,0,,6-7,11-50,high_ed,Over 30
+311,M,1955-1980,Europe,United Kingdom,0,overweight,8-10,Over 300,low_ed,Over 30
+312,M,1955-1980,America,United Kingdom,0,underweight,3-5,Over 300,low_ed,6-10
+313,M,1955-1980,other,United Kingdom,0,underweight,3-5,201-300,high_ed,11-30
+314,F,Over 1980,Europe,United Kingdom,0,overweight,0,Over 300,low_ed,6-10
+315,F,Over 1980,other,United Kingdom,1,weight_within_normal_limits,3-5,Over 300,high_ed,Over 30
+316,M,1955-1980,Europe,United Kingdom,0,,3-5,101-200,low_ed,11-30
+317,M,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,Over 30
+318,M,1955-1980,other,United Kingdom,0,underweight,8-10,Over 300,low_ed,11-30
+319,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,0,11-50,high_ed,11-30
+320,F,1955-1980,Europe,United Kingdom,0,overweight,8-10,Over 300,low_ed,Over 30
+321,M,1955-1980,America,United Kingdom,0,underweight,6-7,Over 300,low_ed,11-30
+322,F,1955-1980,Africa,United Kingdom,0,underweight,6-7,Over 300,low_ed,Over 30
+323,M,1955-1980,Europe,United Kingdom,0,overweight,8-10,11-50,low_ed,0-5
+324,F,1955-1980,America,United Kingdom,0,underweight,8-10,Over 300,low_ed,11-30
+325,M,1955-1980,Europe,United Kingdom,0,overweight,3-5,Over 300,low_ed,11-30
+326,F,Over 1980,Asia,United Kingdom,0,overweight,3-5,101-200,high_ed,11-30
+327,M,Over 1980,Europe,United Kingdom,0,,0,Over 300,low_ed,6-10
+328,M,1955-1980,other,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+329,F,Over 1980,Europe,United Kingdom,0,,0,Over 300,low_ed,Over 30
+330,M,1955-1980,other,United Kingdom,0,weight_within_normal_limits,3-5,201-300,high_ed,11-30
+331,F,Over 1980,Europe,United Kingdom,0,underweight,3-5,Over 300,low_ed,0-5
+332,F,Over 1980,Asia,United Kingdom,0,underweight,8-10,101-200,low_ed,11-30
+333,M,Over 1980,other,United Kingdom,0,overweight,8-10,Over 300,high_ed,6-10
+334,F,Over 1980,Europe,United Kingdom,0,underweight,6-7,101-200,low_ed,11-30
+335,M,Over 1980,America,United Kingdom,0,,8-10,101-200,high_ed,Over 30
+336,F,Over 1980,America,United Kingdom,0,weight_within_normal_limits,8-10,201-300,high_ed,0-5
+337,M,1955-1980,other,United Kingdom,0,,3-5,Over 300,high_ed,11-30
+338,F,Over 1980,Europe,United Kingdom,0,underweight,3-5,51-100,low_ed,11-30
+339,M,1955-1980,Africa,United Kingdom,0,overweight,6-7,Over 300,low_ed,11-30
+340,M,Over 1980,Africa,United Kingdom,0,,6-7,Over 300,low_ed,Over 30
+341,M,1955-1980,Europe,United Kingdom,0,overweight,8-10,101-200,low_ed,11-30
+342,M,Over 1980,America,United Kingdom,0,,3-5,101-200,low_ed,0-5
+343,F,Over 1980,other,United Kingdom,0,underweight,6-7,Over 300,high_ed,11-30
+344,F,1955-1980,Europe,United Kingdom,0,overweight,8-10,101-200,low_ed,Over 30
+345,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+346,M,1955-1980,Africa,United Kingdom,0,underweight,3-5,Over 300,high_ed,0-5
+347,F,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,0,51-100,low_ed,11-30
+348,F,1955-1980,Asia,United Kingdom,0,underweight,8-10,Over 300,low_ed,6-10
+349,F,Over 1980,other,United Kingdom,0,underweight,3-5,Over 300,high_ed,Over 30
+350,F,1955-1980,other,United Kingdom,0,underweight,1-2,201-300,high_ed,Over 30
+351,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,1-2,201-300,high_ed,Over 30
+352,M,1955-1980,America,United Kingdom,0,,1-2,201-300,low_ed,11-30
+353,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,high_ed,11-30
+354,M,1955-1980,other,United Kingdom,0,weight_within_normal_limits,3-5,201-300,low_ed,Over 30
+355,F,1955-1980,America,United Kingdom,1,weight_within_normal_limits,8-10,101-200,high_ed,Over 30
+356,M,1955-1980,Africa,United Kingdom,0,underweight,3-5,201-300,high_ed,6-10
+357,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,11-50,low_ed,11-30
+358,F,Over 1980,Asia,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+359,M,1955-1980,Europe,United Kingdom,0,,8-10,201-300,high_ed,Over 30
+360,M,Over 1980,Europe,United Kingdom,0,overweight,1-2,201-300,low_ed,Over 30
+361,M,Over 1980,Asia,United Kingdom,0,underweight,8-10,101-200,low_ed,11-30
+362,F,Over 1980,other,United Kingdom,0,overweight,8-10,51-100,low_ed,0-5
+363,M,Over 1980,Africa,United Kingdom,0,,3-5,Over 300,high_ed,Over 30
+364,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,0,101-200,low_ed,11-30
+365,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,0,low_ed,Over 30
+366,F,1955-1980,Africa,United Kingdom,0,underweight,6-7,101-200,low_ed,11-30
+367,F,Over 1980,Asia,United Kingdom,0,underweight,3-5,201-300,high_ed,6-10
+368,F,1955-1980,Africa,United Kingdom,0,,1-2,1-10,low_ed,11-30
+369,M,1955-1980,Africa,United Kingdom,0,overweight,6-7,101-200,high_ed,11-30
+370,F,1955-1980,other,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,high_ed,11-30
+371,M,1955-1980,Europe,United Kingdom,1,weight_within_normal_limits,3-5,Over 300,low_ed,11-30
+372,M,Over 1980,America,United Kingdom,0,underweight,0,51-100,low_ed,Over 30
+373,M,Over 1980,other,United Kingdom,0,underweight,6-7,Over 300,high_ed,11-30
+374,F,1955-1980,Africa,United Kingdom,1,underweight,8-10,11-50,low_ed,11-30
+375,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,high_ed,Over 30
+376,F,1955-1980,Europe,United Kingdom,0,underweight,6-7,Over 300,low_ed,6-10
+377,F,Over 1980,Africa,United Kingdom,0,,8-10,Over 300,low_ed,Over 30
+378,M,1955-1980,America,United Kingdom,0,underweight,3-5,11-50,low_ed,Over 30
+379,F,Over 1980,Africa,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+380,F,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,1-2,201-300,high_ed,Over 30
+381,M,1955-1980,other,United Kingdom,0,weight_within_normal_limits,8-10,101-200,high_ed,11-30
+382,M,1955-1980,America,United Kingdom,0,underweight,1-2,101-200,high_ed,11-30
+383,M,1955-1980,Asia,United Kingdom,0,underweight,6-7,11-50,high_ed,11-30
+384,M,Over 1980,Europe,United Kingdom,0,,3-5,101-200,low_ed,Over 30
+385,F,Over 1980,America,United Kingdom,0,,3-5,101-200,low_ed,11-30
+386,M,1955-1980,Asia,United Kingdom,0,overweight,0,Over 300,low_ed,Over 30
+387,F,1955-1980,Asia,United Kingdom,0,,3-5,101-200,high_ed,Over 30
+388,F,Over 1980,America,United Kingdom,0,underweight,1-2,101-200,low_ed,Over 30
+389,M,Over 1980,Africa,United Kingdom,1,underweight,3-5,101-200,high_ed,11-30
+390,F,Over 1980,Africa,United Kingdom,0,,6-7,201-300,high_ed,11-30
+391,F,Over 1980,Africa,United Kingdom,0,underweight,1-2,201-300,low_ed,11-30
+392,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,11-50,low_ed,Over 30
+393,M,Over 1980,Europe,United Kingdom,0,overweight,1-2,Over 300,low_ed,6-10
+394,F,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,11-30
+395,F,1955-1980,other,United Kingdom,0,,6-7,101-200,high_ed,Over 30
+396,F,1955-1980,other,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,Over 30
+397,M,Over 1980,Africa,United Kingdom,0,overweight,1-2,101-200,high_ed,6-10
+398,M,Over 1980,Europe,United Kingdom,0,underweight,0,1-10,high_ed,Over 30
+399,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,low_ed,11-30
+400,M,1955-1980,Europe,United Kingdom,1,overweight,3-5,Over 300,low_ed,Over 30
+401,F,Over 1980,Africa,United Kingdom,0,underweight,3-5,101-200,low_ed,0-5
+402,F,1955-1980,other,United Kingdom,0,underweight,1-2,Over 300,low_ed,6-10
+403,M,Over 1980,Asia,United Kingdom,0,,6-7,51-100,high_ed,11-30
+404,M,Over 1980,America,United Kingdom,0,underweight,0,101-200,high_ed,Over 30
+405,F,1955-1980,America,United Kingdom,0,underweight,8-10,Over 300,low_ed,11-30
+406,M,Over 1980,Asia,United Kingdom,0,,3-5,201-300,low_ed,11-30
+407,M,Over 1980,Europe,United Kingdom,0,overweight,3-5,Over 300,high_ed,Over 30
+408,M,1955-1980,other,United Kingdom,0,underweight,8-10,201-300,low_ed,0-5
+409,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+410,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,51-100,high_ed,11-30
+411,F,1955-1980,Africa,United Kingdom,0,underweight,6-7,Over 300,high_ed,Over 30
+412,F,Over 1980,America,United Kingdom,0,weight_within_normal_limits,3-5,201-300,low_ed,11-30
+413,M,1955-1980,America,United Kingdom,0,overweight,3-5,101-200,low_ed,6-10
+414,F,1955-1980,other,United Kingdom,0,underweight,0,51-100,low_ed,Over 30
+415,F,1955-1980,Asia,United Kingdom,0,,0,101-200,low_ed,Over 30
+416,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,low_ed,Over 30
+417,F,1955-1980,Africa,United Kingdom,0,,8-10,Over 300,low_ed,Over 30
+418,M,Over 1980,Africa,United Kingdom,1,weight_within_normal_limits,3-5,51-100,low_ed,Over 30
+419,F,Over 1980,Asia,United Kingdom,0,overweight,6-7,101-200,low_ed,11-30
+420,F,Over 1980,Europe,United Kingdom,0,,3-5,Over 300,low_ed,Over 30
+421,M,1955-1980,America,United Kingdom,0,,0,Over 300,low_ed,Over 30
+422,M,Over 1980,other,United Kingdom,0,underweight,1-2,Over 300,low_ed,0-5
+423,M,Over 1980,Asia,United Kingdom,0,,8-10,Over 300,low_ed,11-30
+424,F,1955-1980,other,United Kingdom,0,weight_within_normal_limits,6-7,201-300,high_ed,11-30
+425,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,6-7,201-300,low_ed,6-10
+426,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,3-5,101-200,low_ed,Over 30
+427,F,Over 1980,other,United Kingdom,0,underweight,1-2,Over 300,low_ed,11-30
+428,F,Over 1980,Africa,United Kingdom,0,,8-10,201-300,low_ed,11-30
+429,M,1955-1980,other,United Kingdom,0,underweight,8-10,201-300,high_ed,6-10
+430,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,101-200,low_ed,Over 30
+431,M,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,11-30
+432,M,Over 1980,Africa,United Kingdom,0,underweight,6-7,Over 300,low_ed,11-30
+433,M,Over 1980,Asia,United Kingdom,0,underweight,1-2,101-200,low_ed,11-30
+434,F,1955-1980,Africa,United Kingdom,0,,6-7,Over 300,low_ed,11-30
+435,M,Over 1980,other,United Kingdom,0,underweight,3-5,Over 300,low_ed,6-10
+436,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,1-2,101-200,low_ed,Over 30
+437,M,1955-1980,Asia,United Kingdom,0,overweight,0,101-200,low_ed,Over 30
+438,M,Over 1980,Asia,United Kingdom,0,underweight,0,51-100,high_ed,11-30
+439,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,51-100,low_ed,6-10
+440,F,1955-1980,Africa,United Kingdom,0,underweight,8-10,201-300,low_ed,0-5
+441,F,1955-1980,America,United Kingdom,0,,0,Over 300,high_ed,11-30
+442,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,0,11-50,low_ed,0-5
+443,M,,Africa,United Kingdom,0,underweight,1-2,201-300,low_ed,11-30
+444,M,Over 1980,Asia,United Kingdom,0,,6-7,51-100,low_ed,0-5
+445,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,1-2,101-200,low_ed,Over 30
+446,F,1955-1980,Europe,United Kingdom,0,underweight,3-5,201-300,low_ed,Over 30
+447,F,1955-1980,America,United Kingdom,0,underweight,3-5,Over 300,high_ed,11-30
+448,M,Over 1980,Europe,United Kingdom,0,underweight,3-5,11-50,low_ed,Over 30
+449,M,Over 1980,Africa,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+450,F,1955-1980,Europe,United Kingdom,0,underweight,8-10,Over 300,low_ed,Over 30
+451,F,Over 1980,other,United Kingdom,0,weight_within_normal_limits,6-7,201-300,low_ed,Over 30
+452,F,Over 1980,Africa,United Kingdom,0,,6-7,Over 300,low_ed,11-30
+453,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,3-5,201-300,low_ed,6-10
+454,F,Over 1980,other,United Kingdom,1,,3-5,11-50,high_ed,11-30
+455,M,1955-1980,Asia,United Kingdom,0,overweight,3-5,201-300,high_ed,0-5
+456,F,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,6-10
+457,F,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,201-300,high_ed,11-30
+458,M,Over 1980,Africa,United Kingdom,0,,8-10,51-100,high_ed,11-30
+459,M,Over 1980,Africa,United Kingdom,0,,1-2,Over 300,high_ed,11-30
+460,F,Over 1980,America,United Kingdom,0,underweight,3-5,201-300,high_ed,Over 30
+461,F,Over 1980,Africa,United Kingdom,0,,6-7,Over 300,high_ed,11-30
+462,M,1955-1980,Europe,United Kingdom,0,underweight,6-7,101-200,low_ed,Over 30
+463,M,Over 1980,Europe,United Kingdom,0,,8-10,101-200,high_ed,Over 30
+464,F,1955-1980,other,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+465,M,1955-1980,other,United Kingdom,0,underweight,8-10,Over 300,low_ed,11-30
+466,F,Over 1980,Africa,United Kingdom,0,underweight,3-5,201-300,low_ed,11-30
+467,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,51-100,high_ed,Over 30
+468,F,Over 1980,America,United Kingdom,0,underweight,3-5,201-300,low_ed,Over 30
+469,F,Over 1980,Asia,United Kingdom,0,,6-7,Over 300,high_ed,11-30
+470,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,6-10
+471,F,1955-1980,other,United Kingdom,1,weight_within_normal_limits,8-10,51-100,high_ed,Over 30
+472,M,Over 1980,America,United Kingdom,0,underweight,6-7,Over 300,low_ed,Over 30
+473,M,Over 1980,Europe,United Kingdom,0,overweight,6-7,Over 300,low_ed,Over 30
+474,M,1955-1980,America,United Kingdom,1,underweight,3-5,201-300,low_ed,11-30
+475,F,1955-1980,Asia,United Kingdom,0,underweight,3-5,101-200,low_ed,11-30
+476,M,Over 1980,Asia,United Kingdom,0,underweight,0,Over 300,low_ed,Over 30
+477,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,51-100,low_ed,6-10
+478,M,1955-1980,Asia,United Kingdom,0,,0,101-200,low_ed,0-5
+479,F,Over 1980,other,United Kingdom,0,overweight,6-7,101-200,low_ed,6-10
+480,F,Over 1980,Africa,United Kingdom,0,overweight,3-5,Over 300,low_ed,Over 30
+481,F,1955-1980,Europe,United Kingdom,0,overweight,6-7,11-50,low_ed,Over 30
+482,M,Over 1980,Africa,United Kingdom,0,underweight,8-10,201-300,high_ed,Over 30
+483,F,1955-1980,Africa,United Kingdom,0,overweight,3-5,Over 300,low_ed,Over 30
+484,M,1955-1980,America,United Kingdom,0,overweight,1-2,201-300,low_ed,Over 30
+485,F,Over 1980,America,United Kingdom,0,overweight,6-7,101-200,low_ed,11-30
+486,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,11-30
+487,M,1955-1980,other,United Kingdom,0,weight_within_normal_limits,6-7,101-200,high_ed,Over 30
+488,F,1955-1980,America,United Kingdom,0,underweight,3-5,1-10,high_ed,11-30
+489,M,Over 1980,America,United Kingdom,0,,6-7,201-300,low_ed,6-10
+490,F,Over 1980,America,United Kingdom,0,weight_within_normal_limits,3-5,11-50,high_ed,0-5
+491,M,Over 1980,Asia,United Kingdom,0,underweight,1-2,201-300,low_ed,Over 30
+492,M,1955-1980,Asia,United Kingdom,0,underweight,8-10,101-200,low_ed,0-5
+493,F,Over 1980,Asia,United Kingdom,0,overweight,3-5,51-100,high_ed,11-30
+494,M,Over 1980,Africa,United Kingdom,1,overweight,1-2,Over 300,low_ed,Over 30
+495,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,11-50,high_ed,6-10
+496,M,1955-1980,Africa,United Kingdom,0,overweight,3-5,Over 300,low_ed,Over 30
+497,F,Over 1980,Africa,United Kingdom,0,,8-10,Over 300,high_ed,11-30
+498,F,1955-1980,Africa,United Kingdom,0,overweight,6-7,Over 300,high_ed,0-5
+499,F,Over 1980,America,United Kingdom,0,underweight,3-5,201-300,low_ed,11-30
+500,M,Over 1980,Africa,United Kingdom,0,underweight,3-5,201-300,low_ed,0-5
+501,M,1955-1980,Europe,United Kingdom,0,,0,201-300,low_ed,Over 30
+502,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,high_ed,Over 30
+503,F,Over 1980,Europe,United Kingdom,0,overweight,3-5,11-50,low_ed,6-10
+504,F,Over 1980,Asia,United Kingdom,0,underweight,6-7,Over 300,low_ed,Over 30
+505,F,1955-1980,other,United Kingdom,0,underweight,3-5,201-300,low_ed,11-30
+506,M,1955-1980,other,United Kingdom,0,,8-10,1-10,low_ed,11-30
+507,F,Over 1980,Europe,United Kingdom,0,underweight,6-7,Over 300,low_ed,11-30
+508,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+509,M,1955-1980,Europe,United Kingdom,0,overweight,6-7,Over 300,high_ed,11-30
+510,F,1955-1980,Africa,United Kingdom,0,,8-10,0,low_ed,Over 30
+511,M,1955-1980,Africa,United Kingdom,0,overweight,3-5,101-200,low_ed,Over 30
+512,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,0-5
+513,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,101-200,high_ed,Over 30
+514,F,1955-1980,Europe,United Kingdom,0,underweight,8-10,201-300,high_ed,6-10
+515,M,Over 1980,other,United Kingdom,0,,0,Over 300,low_ed,6-10
+516,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,51-100,low_ed,Over 30
+517,M,Over 1980,Asia,United Kingdom,0,,3-5,51-100,low_ed,6-10
+518,F,1955-1980,Europe,United Kingdom,0,,1-2,201-300,low_ed,Over 30
+519,F,Over 1980,Asia,United Kingdom,0,,0,101-200,high_ed,6-10
+520,F,1955-1980,Africa,United Kingdom,0,,1-2,101-200,high_ed,11-30
+521,F,Over 1980,Europe,United Kingdom,0,underweight,8-10,201-300,low_ed,Over 30
+522,F,Over 1980,Europe,United Kingdom,0,,1-2,Over 300,low_ed,Over 30
+523,M,1955-1980,America,United Kingdom,0,underweight,8-10,201-300,high_ed,Over 30
+524,M,1955-1980,Asia,United Kingdom,0,underweight,8-10,Over 300,low_ed,Over 30
+525,M,Over 1980,Asia,United Kingdom,0,overweight,3-5,Over 300,low_ed,11-30
+526,F,Over 1980,other,United Kingdom,0,weight_within_normal_limits,3-5,11-50,low_ed,6-10
+527,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,1-2,201-300,high_ed,Over 30
+528,F,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,6-7,51-100,high_ed,0-5
+529,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,8-10,11-50,low_ed,11-30
+530,M,Over 1980,Asia,United Kingdom,0,overweight,6-7,11-50,low_ed,0-5
+531,M,1955-1980,other,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+532,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,high_ed,11-30
+533,M,Over 1980,Europe,United Kingdom,0,overweight,6-7,201-300,low_ed,6-10
+534,M,1955-1980,Africa,United Kingdom,0,overweight,8-10,11-50,low_ed,Over 30
+535,M,Over 1980,Africa,United Kingdom,0,underweight,3-5,11-50,low_ed,Over 30
+536,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,6-7,201-300,low_ed,11-30
+537,M,1955-1980,Asia,United Kingdom,1,,3-5,101-200,low_ed,Over 30
+538,M,1955-1980,Europe,United Kingdom,0,underweight,6-7,Over 300,high_ed,11-30
+539,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,201-300,low_ed,11-30
+540,F,1955-1980,Europe,United Kingdom,0,,3-5,Over 300,low_ed,Over 30
+541,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,low_ed,Over 30
+542,F,1955-1980,America,United Kingdom,0,underweight,3-5,Over 300,high_ed,Over 30
+543,F,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,51-100,low_ed,Over 30
+544,M,1955-1980,America,United Kingdom,0,,8-10,101-200,low_ed,11-30
+545,M,1955-1980,Africa,United Kingdom,0,underweight,8-10,Over 300,low_ed,Over 30
+546,M,1955-1980,Europe,United Kingdom,0,underweight,6-7,101-200,high_ed,11-30
+547,F,Over 1980,Africa,United Kingdom,0,overweight,8-10,201-300,low_ed,6-10
+548,F,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,11-50,low_ed,Over 30
+549,F,1955-1980,Asia,United Kingdom,0,,3-5,101-200,low_ed,Over 30
+550,M,1955-1980,America,United Kingdom,0,underweight,1-2,51-100,low_ed,Over 30
+551,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,1-2,11-50,low_ed,11-30
+552,M,1955-1980,Europe,United Kingdom,0,overweight,8-10,101-200,low_ed,Over 30
+553,F,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+554,M,Over 1980,America,United Kingdom,0,underweight,3-5,101-200,low_ed,Over 30
+555,M,1955-1980,Europe,United Kingdom,0,underweight,3-5,101-200,low_ed,11-30
+556,M,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,high_ed,11-30
+557,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,high_ed,11-30
+558,M,Over 1980,Asia,United Kingdom,0,underweight,0,101-200,high_ed,Over 30
+559,F,Over 1980,other,United Kingdom,0,overweight,6-7,Over 300,low_ed,11-30
+560,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,201-300,low_ed,0-5
+561,F,Over 1980,Europe,United Kingdom,0,overweight,3-5,Over 300,high_ed,11-30
+562,F,1955-1980,Africa,United Kingdom,0,overweight,6-7,101-200,low_ed,6-10
+563,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,1-2,201-300,high_ed,11-30
+564,M,1955-1980,Europe,United Kingdom,0,,8-10,Over 300,low_ed,Over 30
+565,F,1955-1980,Asia,United Kingdom,0,,8-10,Over 300,low_ed,0-5
+566,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+567,F,1955-1980,other,United Kingdom,0,underweight,6-7,Over 300,low_ed,11-30
+568,F,Over 1980,Asia,United Kingdom,0,overweight,3-5,11-50,low_ed,0-5
+569,M,Over 1980,Asia,United Kingdom,0,,8-10,11-50,high_ed,Over 30
+570,M,1955-1980,Europe,United Kingdom,0,underweight,3-5,0,low_ed,Over 30
+571,F,1955-1980,Africa,United Kingdom,0,,8-10,101-200,low_ed,11-30
+572,M,1955-1980,Asia,United Kingdom,0,,3-5,51-100,low_ed,11-30
+573,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,11-50,low_ed,6-10
+574,F,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+575,M,Over 1980,Africa,United Kingdom,0,underweight,1-2,101-200,high_ed,Over 30
+576,F,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,,201-300,high_ed,11-30
+577,M,1955-1980,Africa,United Kingdom,0,underweight,8-10,1-10,high_ed,11-30
+578,M,Over 1980,America,United Kingdom,0,overweight,8-10,101-200,high_ed,0-5
+579,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,51-100,low_ed,Over 30
+580,M,1955-1980,Europe,United Kingdom,0,,8-10,201-300,low_ed,11-30
+581,F,Over 1980,other,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,0-5
+582,F,Over 1980,Africa,United Kingdom,0,,8-10,201-300,low_ed,11-30
+583,M,1955-1980,Europe,United Kingdom,0,,3-5,51-100,high_ed,Over 30
+584,F,1955-1980,Asia,United Kingdom,0,overweight,8-10,201-300,low_ed,11-30
+585,F,1955-1980,Africa,United Kingdom,1,weight_within_normal_limits,8-10,101-200,low_ed,11-30
+586,F,1955-1980,other,United Kingdom,0,underweight,8-10,Over 300,low_ed,Over 30
+587,F,Over 1980,America,United Kingdom,0,underweight,1-2,101-200,low_ed,Over 30
+588,M,Over 1980,America,United Kingdom,0,overweight,8-10,101-200,low_ed,Over 30
+589,M,Over 1980,other,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,11-30
+590,F,Over 1980,Europe,United Kingdom,0,,3-5,Over 300,low_ed,Over 30
+591,F,Over 1980,America,United Kingdom,0,underweight,3-5,201-300,high_ed,Over 30
+592,F,Over 1980,Africa,United Kingdom,0,overweight,3-5,Over 300,high_ed,Over 30
+593,M,1955-1980,other,United Kingdom,0,underweight,6-7,101-200,low_ed,Over 30
+594,M,Over 1980,Africa,United Kingdom,0,underweight,3-5,11-50,high_ed,11-30
+595,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,51-100,low_ed,11-30
+596,M,1955-1980,Asia,United Kingdom,0,underweight,3-5,Over 300,high_ed,Over 30
+597,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,51-100,low_ed,11-30
+598,M,Over 1980,other,United Kingdom,0,,3-5,51-100,high_ed,Over 30
+599,M,1955-1980,Europe,United Kingdom,0,underweight,3-5,51-100,low_ed,11-30
+600,F,1955-1980,Europe,United Kingdom,1,overweight,0,201-300,high_ed,Over 30
+601,M,Over 1980,Africa,United Kingdom,0,overweight,3-5,Over 300,low_ed,11-30
+602,M,1955-1980,America,United Kingdom,0,,0,Over 300,low_ed,Over 30
+603,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,0-5
+604,F,1955-1980,America,United Kingdom,0,underweight,6-7,101-200,high_ed,11-30
+605,F,1955-1980,Africa,United Kingdom,0,,8-10,Over 300,low_ed,Over 30
+606,M,Over 1980,Asia,United Kingdom,0,,8-10,201-300,low_ed,11-30
+607,F,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,0,101-200,low_ed,6-10
+608,M,1955-1980,America,United Kingdom,0,overweight,,51-100,high_ed,Over 30
+609,F,1955-1980,Africa,United Kingdom,0,overweight,8-10,201-300,low_ed,0-5
+610,F,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,51-100,high_ed,11-30
+611,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,low_ed,Over 30
+612,M,1955-1980,other,United Kingdom,0,underweight,0,Over 300,low_ed,11-30
+613,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,0,Over 300,low_ed,Over 30
+614,M,1955-1980,other,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,high_ed,11-30
+615,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,high_ed,11-30
+616,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,201-300,high_ed,Over 30
+617,F,Over 1980,Africa,United Kingdom,0,underweight,3-5,201-300,high_ed,0-5
+618,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,201-300,high_ed,11-30
+619,M,Over 1980,Africa,United Kingdom,1,,3-5,Over 300,high_ed,Over 30
+620,M,Over 1980,other,United Kingdom,0,weight_within_normal_limits,0,11-50,low_ed,11-30
+621,F,Over 1980,America,United Kingdom,0,underweight,6-7,101-200,low_ed,Over 30
+622,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,Over 30
+623,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,high_ed,11-30
+624,M,Over 1980,Europe,United Kingdom,0,,0,11-50,high_ed,Over 30
+625,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,101-200,low_ed,Over 30
+626,F,Over 1980,Asia,United Kingdom,0,,3-5,11-50,low_ed,Over 30
+627,F,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,101-200,low_ed,0-5
+628,M,Over 1980,America,United Kingdom,0,underweight,8-10,201-300,high_ed,Over 30
+629,F,Over 1980,Europe,United Kingdom,0,,8-10,Over 300,low_ed,11-30
+630,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,1-2,101-200,low_ed,11-30
+631,F,1955-1980,Europe,United Kingdom,0,overweight,3-5,201-300,low_ed,11-30
+632,F,Over 1980,America,United Kingdom,0,,0,101-200,low_ed,Over 30
+633,F,Over 1980,other,United Kingdom,0,underweight,3-5,201-300,low_ed,Over 30
+634,M,Over 1980,other,United Kingdom,0,,8-10,101-200,high_ed,0-5
+635,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+636,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,high_ed,11-30
+637,M,Over 1980,Asia,United Kingdom,0,underweight,8-10,201-300,low_ed,6-10
+638,F,1955-1980,Europe,United Kingdom,0,underweight,3-5,101-200,low_ed,Over 30
+639,F,1955-1980,other,United Kingdom,0,,8-10,11-50,low_ed,Over 30
+640,F,1955-1980,Asia,United Kingdom,0,underweight,8-10,51-100,low_ed,Over 30
+641,F,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,6-7,1-10,high_ed,11-30
+642,F,Over 1980,Asia,United Kingdom,0,underweight,8-10,201-300,high_ed,Over 30
+643,M,1955-1980,other,United Kingdom,0,underweight,3-5,Over 300,high_ed,11-30
+644,M,1955-1980,America,United Kingdom,0,overweight,8-10,Over 300,low_ed,Over 30
+645,M,1955-1980,Africa,United Kingdom,0,,6-7,101-200,low_ed,11-30
+646,F,1955-1980,Asia,United Kingdom,0,,6-7,11-50,low_ed,11-30
+647,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,6-7,201-300,high_ed,11-30
+648,F,Over 1980,Asia,United Kingdom,0,underweight,3-5,0,low_ed,11-30
+649,M,Over 1980,Africa,United Kingdom,0,underweight,3-5,51-100,low_ed,11-30
+650,M,Over 1980,other,United Kingdom,0,,3-5,201-300,high_ed,Over 30
+651,M,Over 1980,America,United Kingdom,0,overweight,0,51-100,high_ed,11-30
+652,F,1955-1980,America,United Kingdom,0,overweight,0,11-50,high_ed,11-30
+653,F,1955-1980,America,United Kingdom,0,,0,Over 300,low_ed,Over 30
+654,M,1955-1980,Africa,United Kingdom,0,overweight,3-5,Over 300,low_ed,11-30
+655,M,1955-1980,Africa,United Kingdom,0,,1-2,51-100,high_ed,11-30
+656,F,Over 1980,America,United Kingdom,0,weight_within_normal_limits,8-10,101-200,low_ed,6-10
+657,F,Over 1980,Europe,United Kingdom,0,underweight,3-5,201-300,low_ed,Over 30
+658,M,1955-1980,other,United Kingdom,1,underweight,8-10,Over 300,high_ed,11-30
+659,M,1955-1980,Africa,United Kingdom,0,,8-10,Over 300,low_ed,11-30
+660,F,1955-1980,Europe,United Kingdom,0,underweight,3-5,101-200,high_ed,11-30
+661,M,1955-1980,Europe,United Kingdom,0,,1-2,11-50,high_ed,11-30
+662,F,Over 1980,other,United Kingdom,0,weight_within_normal_limits,8-10,11-50,low_ed,6-10
+663,F,Over 1980,other,United Kingdom,0,weight_within_normal_limits,8-10,51-100,low_ed,6-10
+664,F,Over 1980,other,United Kingdom,0,underweight,8-10,201-300,high_ed,Over 30
+665,F,Over 1980,other,United Kingdom,0,weight_within_normal_limits,0,101-200,high_ed,Over 30
+666,M,Over 1980,Asia,United Kingdom,0,underweight,3-5,101-200,low_ed,Over 30
+667,F,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,Over 30
+668,F,Over 1980,Africa,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+669,F,1955-1980,America,United Kingdom,0,,3-5,Over 300,high_ed,11-30
+670,M,1955-1980,Europe,United Kingdom,0,overweight,3-5,Over 300,low_ed,Over 30
+671,F,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,51-100,low_ed,Over 30
+672,M,Over 1980,America,United Kingdom,0,underweight,3-5,Over 300,high_ed,11-30
+673,F,Over 1980,Europe,United Kingdom,0,underweight,0,101-200,low_ed,11-30
+674,F,1955-1980,Africa,United Kingdom,0,overweight,6-7,Over 300,low_ed,11-30
+675,M,1955-1980,Asia,United Kingdom,0,,3-5,51-100,low_ed,11-30
+676,F,1955-1980,Africa,United Kingdom,0,overweight,6-7,0,high_ed,Over 30
+677,M,1955-1980,Europe,United Kingdom,0,,6-7,101-200,low_ed,11-30
+678,F,Over 1980,other,United Kingdom,0,,1-2,101-200,high_ed,11-30
+679,M,Over 1980,Africa,United Kingdom,0,underweight,3-5,Over 300,low_ed,0-5
+680,M,Over 1980,Africa,United Kingdom,0,underweight,8-10,101-200,high_ed,Over 30
+681,F,Over 1980,Europe,United Kingdom,0,underweight,6-7,Over 300,high_ed,Over 30
+682,F,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,101-200,low_ed,Over 30
+683,F,1955-1980,Europe,United Kingdom,0,,3-5,Over 300,low_ed,0-5
+684,M,1955-1980,Africa,United Kingdom,0,underweight,8-10,11-50,low_ed,11-30
+685,F,1955-1980,Africa,United Kingdom,0,underweight,0,Over 300,low_ed,Over 30
+686,M,1955-1980,other,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,high_ed,Over 30
+687,M,Over 1980,America,United Kingdom,0,underweight,3-5,51-100,high_ed,0-5
+688,F,Over 1980,other,United Kingdom,0,overweight,8-10,11-50,high_ed,11-30
+689,F,Over 1980,other,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,11-30
+690,F,1955-1980,Europe,United Kingdom,0,underweight,0,201-300,low_ed,Over 30
+691,F,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,low_ed,6-10
+692,M,Over 1980,Asia,United Kingdom,1,overweight,8-10,Over 300,high_ed,11-30
+693,F,Over 1980,other,United Kingdom,0,weight_within_normal_limits,1-2,Over 300,high_ed,11-30
+694,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,51-100,high_ed,11-30
+695,F,1955-1980,Asia,United Kingdom,0,overweight,8-10,51-100,low_ed,Over 30
+696,M,1955-1980,Asia,United Kingdom,0,underweight,8-10,Over 300,high_ed,0-5
+697,F,Over 1980,Africa,United Kingdom,0,underweight,8-10,201-300,high_ed,11-30
+698,F,1955-1980,Asia,United Kingdom,1,overweight,1-2,51-100,low_ed,Over 30
+699,M,1955-1980,other,United Kingdom,0,underweight,1-2,101-200,high_ed,11-30
+700,F,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,201-300,high_ed,Over 30
+701,F,Over 1980,Africa,United Kingdom,0,underweight,0,Over 300,low_ed,0-5
+702,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,Over 30
+703,F,1955-1980,America,United Kingdom,0,underweight,8-10,201-300,high_ed,6-10
+704,F,1955-1980,Europe,United Kingdom,0,overweight,1-2,101-200,low_ed,11-30
+705,F,1955-1980,Africa,United Kingdom,0,,3-5,Over 300,high_ed,Over 30
+706,F,1955-1980,Europe,United Kingdom,0,underweight,3-5,Over 300,high_ed,Over 30
+707,F,1955-1980,America,United Kingdom,0,overweight,6-7,101-200,low_ed,11-30
+708,F,Over 1980,other,United Kingdom,0,underweight,6-7,101-200,low_ed,11-30
+709,F,Over 1980,other,United Kingdom,0,,3-5,201-300,high_ed,11-30
+710,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,201-300,low_ed,6-10
+711,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,0,101-200,low_ed,Over 30
+712,F,Over 1980,America,United Kingdom,0,underweight,6-7,51-100,low_ed,0-5
+713,F,Over 1980,Europe,United Kingdom,0,,8-10,Over 300,high_ed,11-30
+714,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,6-7,101-200,high_ed,Over 30
+715,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,201-300,low_ed,0-5
+716,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,1-2,101-200,low_ed,Over 30
+717,F,1955-1980,Europe,United Kingdom,1,overweight,8-10,Over 300,low_ed,Over 30
+718,M,1955-1980,America,United Kingdom,1,weight_within_normal_limits,6-7,201-300,low_ed,Over 30
+719,M,1955-1980,Africa,United Kingdom,0,overweight,6-7,Over 300,high_ed,Over 30
+720,M,Over 1980,America,United Kingdom,0,overweight,0,201-300,high_ed,6-10
+721,F,1955-1980,other,United Kingdom,0,underweight,6-7,101-200,low_ed,6-10
+722,F,Over 1980,Africa,United Kingdom,0,underweight,6-7,101-200,low_ed,11-30
+723,F,1955-1980,Africa,United Kingdom,0,overweight,1-2,201-300,high_ed,Over 30
+724,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,high_ed,11-30
+725,F,Over 1980,Asia,United Kingdom,0,,6-7,Over 300,low_ed,Over 30
+726,F,Over 1980,Africa,United Kingdom,0,overweight,0,101-200,low_ed,Over 30
+727,M,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,1-2,51-100,high_ed,0-5
+728,F,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,101-200,high_ed,Over 30
+729,F,1955-1980,Asia,United Kingdom,0,,3-5,201-300,low_ed,Over 30
+730,F,1955-1980,Europe,United Kingdom,0,,1-2,201-300,low_ed,Over 30
+731,M,Over 1980,Europe,United Kingdom,0,underweight,3-5,201-300,low_ed,Over 30
+732,M,1955-1980,Europe,United Kingdom,0,,3-5,Over 300,low_ed,Over 30
+733,F,1955-1980,Africa,United Kingdom,0,underweight,0,101-200,high_ed,Over 30
+734,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,101-200,low_ed,11-30
+735,M,1955-1980,Africa,United Kingdom,0,overweight,1-2,201-300,low_ed,Over 30
+736,F,1955-1980,Europe,United Kingdom,0,underweight,3-5,201-300,high_ed,11-30
+737,F,Over 1980,Asia,United Kingdom,0,overweight,3-5,11-50,high_ed,0-5
+738,M,1955-1980,Africa,United Kingdom,0,,8-10,1-10,high_ed,6-10
+739,M,Over 1980,America,United Kingdom,0,underweight,1-2,51-100,high_ed,Over 30
+740,F,1955-1980,Europe,United Kingdom,0,overweight,3-5,11-50,low_ed,11-30
+741,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,high_ed,Over 30
+742,F,1955-1980,America,United Kingdom,0,,6-7,201-300,low_ed,11-30
+743,F,1955-1980,other,United Kingdom,0,underweight,0,Over 300,high_ed,0-5
+744,F,Over 1980,Europe,United Kingdom,0,underweight,3-5,Over 300,low_ed,6-10
+745,F,1955-1980,America,United Kingdom,0,,6-7,101-200,low_ed,Over 30
+746,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,1-2,201-300,low_ed,11-30
+747,F,1955-1980,America,United Kingdom,0,underweight,0,201-300,high_ed,11-30
+748,F,Over 1980,America,United Kingdom,0,weight_within_normal_limits,1-2,11-50,low_ed,11-30
+749,M,Over 1980,Africa,United Kingdom,0,,1-2,101-200,low_ed,Over 30
+750,F,1955-1980,Europe,United Kingdom,0,overweight,6-7,201-300,high_ed,11-30
+751,M,1955-1980,Africa,United Kingdom,1,underweight,8-10,201-300,high_ed,11-30
+752,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,51-100,low_ed,11-30
+753,M,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,high_ed,Over 30
+754,F,Over 1980,Africa,United Kingdom,0,,0,Over 300,low_ed,11-30
+755,F,1955-1980,Africa,United Kingdom,0,underweight,0,101-200,high_ed,11-30
+756,F,Over 1980,Africa,United Kingdom,0,overweight,1-2,201-300,low_ed,Over 30
+757,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,201-300,high_ed,6-10
+758,M,Over 1980,Asia,United Kingdom,0,,8-10,11-50,low_ed,11-30
+759,M,Over 1980,Europe,United Kingdom,0,overweight,3-5,Over 300,high_ed,11-30
+760,F,1955-1980,other,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+761,M,Over 1980,other,United Kingdom,0,,6-7,201-300,high_ed,0-5
+762,M,1955-1980,Asia,United Kingdom,0,,8-10,201-300,high_ed,Over 30
+763,F,Over 1980,Africa,United Kingdom,0,,6-7,11-50,low_ed,Over 30
+764,F,Over 1980,Europe,United Kingdom,0,underweight,0,Over 300,high_ed,Over 30
+765,F,Over 1980,Asia,United Kingdom,1,underweight,8-10,Over 300,high_ed,11-30
+766,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,1-10,high_ed,Over 30
+767,M,Over 1980,Asia,United Kingdom,0,overweight,8-10,Over 300,low_ed,11-30
+768,F,Over 1980,Europe,United Kingdom,0,underweight,6-7,51-100,low_ed,Over 30
+769,M,Over 1980,America,United Kingdom,0,overweight,0,Over 300,low_ed,Over 30
+770,M,Over 1980,America,United Kingdom,0,underweight,8-10,11-50,low_ed,Over 30
+771,M,Over 1980,Europe,United Kingdom,0,underweight,3-5,201-300,low_ed,11-30
+772,M,Over 1980,Asia,United Kingdom,0,,0,101-200,low_ed,Over 30
+773,M,1955-1980,Asia,United Kingdom,0,overweight,6-7,101-200,low_ed,11-30
+774,M,Over 1980,Asia,United Kingdom,0,overweight,3-5,201-300,high_ed,6-10
+775,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,8-10,51-100,low_ed,11-30
+776,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,11-30
+777,F,1955-1980,Europe,United Kingdom,0,overweight,8-10,201-300,high_ed,11-30
+778,F,1955-1980,Africa,United Kingdom,0,underweight,3-5,101-200,high_ed,Over 30
+779,M,1955-1980,other,United Kingdom,0,underweight,0,Over 300,low_ed,11-30
+780,M,Over 1980,Europe,United Kingdom,0,,3-5,11-50,low_ed,11-30
+781,F,1955-1980,America,United Kingdom,0,,6-7,51-100,low_ed,11-30
+782,F,Over 1980,Africa,United Kingdom,0,underweight,0,11-50,low_ed,11-30
+783,F,Over 1980,America,United Kingdom,0,weight_within_normal_limits,3-5,101-200,low_ed,11-30
+784,F,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,1-2,201-300,high_ed,Over 30
+785,F,1955-1980,Asia,United Kingdom,0,underweight,6-7,201-300,high_ed,Over 30
+786,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,11-30
+787,M,Over 1980,other,United Kingdom,0,underweight,3-5,101-200,high_ed,6-10
+788,F,1955-1980,Africa,United Kingdom,0,,1-2,51-100,low_ed,Over 30
+789,M,Over 1980,Asia,United Kingdom,0,underweight,6-7,11-50,high_ed,11-30
+790,M,1955-1980,Europe,United Kingdom,1,overweight,3-5,Over 300,low_ed,11-30
+791,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,6-7,101-200,low_ed,Over 30
+792,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,low_ed,11-30
+793,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,low_ed,Over 30
+794,F,Over 1980,Africa,United Kingdom,0,overweight,3-5,101-200,low_ed,Over 30
+795,M,Over 1980,Africa,United Kingdom,0,,8-10,Over 300,low_ed,11-30
+796,M,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,Over 30
+797,F,Over 1980,other,United Kingdom,0,,8-10,101-200,low_ed,11-30
+798,M,1955-1980,other,United Kingdom,0,,1-2,11-50,high_ed,6-10
+799,M,1955-1980,Asia,United Kingdom,0,overweight,3-5,Over 300,low_ed,Over 30
+800,M,Over 1980,Asia,United Kingdom,1,,6-7,Over 300,low_ed,11-30
+801,F,1955-1980,America,United Kingdom,0,overweight,3-5,11-50,high_ed,Over 30
+802,F,Over 1980,other,United Kingdom,0,overweight,3-5,11-50,high_ed,Over 30
+803,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,high_ed,11-30
+804,F,1955-1980,America,United Kingdom,0,overweight,6-7,101-200,high_ed,6-10
+805,F,1955-1980,America,United Kingdom,0,,6-7,11-50,low_ed,Over 30
+806,F,1955-1980,America,United Kingdom,0,,1-2,Over 300,low_ed,11-30
+807,M,1955-1980,Europe,United Kingdom,1,weight_within_normal_limits,1-2,Over 300,low_ed,11-30
+808,M,1955-1980,Africa,United Kingdom,0,overweight,3-5,Over 300,low_ed,11-30
+809,M,Over 1980,Asia,United Kingdom,0,,8-10,101-200,low_ed,0-5
+810,M,Over 1980,Asia,United Kingdom,0,underweight,3-5,Over 300,high_ed,0-5
+811,M,1955-1980,Asia,United Kingdom,0,underweight,6-7,101-200,low_ed,11-30
+812,F,1955-1980,Africa,United Kingdom,0,,6-7,101-200,low_ed,6-10
+813,F,Over 1980,America,United Kingdom,0,underweight,3-5,Over 300,high_ed,Over 30
+814,F,Over 1980,Asia,United Kingdom,0,,3-5,201-300,high_ed,Over 30
+815,F,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,101-200,high_ed,Over 30
+816,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,1-2,101-200,low_ed,6-10
+817,F,Over 1980,America,United Kingdom,0,underweight,1-2,Over 300,low_ed,11-30
+818,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,1-2,101-200,low_ed,Over 30
+819,F,Over 1980,Europe,United Kingdom,0,underweight,,Over 300,low_ed,Over 30
+820,M,Over 1980,America,United Kingdom,0,overweight,8-10,11-50,high_ed,11-30
+821,M,1955-1980,Europe,United Kingdom,0,underweight,8-10,Over 300,high_ed,6-10
+822,F,1955-1980,America,United Kingdom,0,overweight,1-2,11-50,high_ed,Over 30
+823,F,Over 1980,Asia,United Kingdom,0,underweight,1-2,Over 300,low_ed,Over 30
+824,M,Over 1980,America,United Kingdom,0,underweight,0,201-300,low_ed,11-30
+825,F,Over 1980,other,United Kingdom,0,underweight,8-10,201-300,high_ed,Over 30
+826,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,201-300,low_ed,11-30
+827,F,Over 1980,America,United Kingdom,0,overweight,6-7,201-300,high_ed,0-5
+828,F,Over 1980,Europe,United Kingdom,0,,1-2,101-200,high_ed,Over 30
+829,M,1955-1980,Europe,United Kingdom,0,underweight,8-10,101-200,high_ed,Over 30
+830,F,1955-1980,other,United Kingdom,0,,6-7,51-100,low_ed,Over 30
+831,M,1955-1980,America,United Kingdom,0,,1-2,Over 300,low_ed,11-30
+832,F,1955-1980,Africa,United Kingdom,0,underweight,6-7,11-50,high_ed,11-30
+833,M,Over 1980,Europe,United Kingdom,0,,1-2,Over 300,low_ed,Over 30
+834,M,Over 1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,11-50,low_ed,11-30
+835,M,Over 1980,America,United Kingdom,1,overweight,3-5,51-100,high_ed,0-5
+836,F,1955-1980,other,United Kingdom,0,weight_within_normal_limits,0,201-300,low_ed,11-30
+837,F,Over 1980,Europe,United Kingdom,0,,6-7,Over 300,low_ed,11-30
+838,M,Over 1980,America,United Kingdom,0,underweight,0,201-300,high_ed,11-30
+839,M,Over 1980,Europe,United Kingdom,0,overweight,6-7,51-100,low_ed,Over 30
+840,M,Over 1980,Africa,United Kingdom,0,underweight,0,51-100,low_ed,Over 30
+841,F,1955-1980,Asia,United Kingdom,0,underweight,3-5,Over 300,high_ed,6-10
+842,M,Over 1980,America,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+843,M,1955-1980,Asia,United Kingdom,0,,6-7,201-300,low_ed,Over 30
+844,M,Over 1980,Europe,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+845,F,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,1-2,201-300,low_ed,11-30
+846,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,high_ed,Over 30
+847,F,1955-1980,America,United Kingdom,0,,3-5,Over 300,low_ed,0-5
+848,F,1955-1980,Asia,United Kingdom,0,underweight,8-10,Over 300,high_ed,11-30
+849,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,6-10
+850,M,Over 1980,Asia,United Kingdom,0,,3-5,11-50,low_ed,11-30
+851,F,1955-1980,Africa,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+852,M,1955-1980,America,United Kingdom,0,overweight,6-7,Over 300,low_ed,11-30
+853,F,1955-1980,Africa,United Kingdom,0,underweight,3-5,11-50,low_ed,Over 30
+854,M,1955-1980,Europe,United Kingdom,0,underweight,1-2,Over 300,high_ed,11-30
+855,M,Over 1980,Africa,United Kingdom,0,,8-10,Over 300,low_ed,6-10
+856,M,1955-1980,America,United Kingdom,0,weight_within_normal_limits,1-2,51-100,low_ed,Over 30
+857,M,1955-1980,Asia,United Kingdom,0,underweight,1-2,Over 300,high_ed,11-30
+858,F,Over 1980,America,United Kingdom,0,underweight,8-10,51-100,high_ed,11-30
+859,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,1-10,low_ed,11-30
+860,F,1955-1980,other,United Kingdom,0,underweight,8-10,Over 300,low_ed,0-5
+861,M,1955-1980,other,United Kingdom,0,weight_within_normal_limits,8-10,201-300,high_ed,11-30
+862,M,1955-1980,Asia,United Kingdom,1,weight_within_normal_limits,0,101-200,high_ed,11-30
+863,F,1955-1980,Africa,United Kingdom,0,underweight,8-10,1-10,low_ed,11-30
+864,F,Over 1980,Europe,United Kingdom,0,underweight,6-7,201-300,low_ed,11-30
+865,F,Over 1980,Asia,United Kingdom,0,underweight,3-5,101-200,high_ed,11-30
+866,F,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,low_ed,6-10
+867,F,1955-1980,Asia,United Kingdom,0,underweight,0,201-300,low_ed,Over 30
+868,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,1-2,51-100,high_ed,11-30
+869,F,Over 1980,Africa,United Kingdom,0,overweight,6-7,201-300,high_ed,11-30
+870,F,Over 1980,Asia,United Kingdom,0,overweight,8-10,101-200,low_ed,Over 30
+871,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,201-300,low_ed,Over 30
+872,M,Over 1980,Asia,United Kingdom,0,underweight,8-10,1-10,high_ed,Over 30
+873,F,Over 1980,Europe,United Kingdom,0,overweight,3-5,Over 300,low_ed,Over 30
+874,F,Over 1980,Asia,United Kingdom,0,,3-5,Over 300,low_ed,Over 30
+875,M,1955-1980,America,United Kingdom,0,overweight,6-7,11-50,low_ed,11-30
+876,M,1955-1980,Africa,United Kingdom,0,overweight,6-7,Over 300,high_ed,0-5
+877,M,1955-1980,Europe,United Kingdom,0,underweight,3-5,Over 300,high_ed,0-5
+878,M,1955-1980,America,United Kingdom,0,underweight,,1-10,high_ed,6-10
+879,F,1955-1980,America,United Kingdom,0,overweight,8-10,11-50,high_ed,11-30
+880,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+881,M,1955-1980,Europe,United Kingdom,0,underweight,8-10,11-50,low_ed,Over 30
+882,M,1955-1980,Europe,United Kingdom,0,underweight,8-10,Over 300,high_ed,6-10
+883,F,1955-1980,Africa,United Kingdom,0,underweight,3-5,Over 300,low_ed,Over 30
+884,F,Over 1980,Europe,United Kingdom,0,underweight,6-7,11-50,low_ed,Over 30
+885,F,Over 1980,other,United Kingdom,1,,1-2,201-300,high_ed,11-30
+886,M,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,101-200,high_ed,11-30
+887,F,1955-1980,other,United Kingdom,0,overweight,8-10,201-300,high_ed,11-30
+888,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,201-300,high_ed,11-30
+889,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,51-100,high_ed,Over 30
+890,M,Over 1980,Asia,United Kingdom,0,underweight,3-5,201-300,low_ed,11-30
+891,M,1955-1980,Africa,United Kingdom,0,underweight,8-10,11-50,low_ed,Over 30
+892,M,Over 1980,Asia,United Kingdom,0,,0,201-300,high_ed,11-30
+893,F,1955-1980,Africa,United Kingdom,0,,8-10,11-50,low_ed,11-30
+894,F,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,high_ed,Over 30
+895,F,1955-1980,Europe,United Kingdom,0,underweight,3-5,101-200,low_ed,11-30
+896,M,1955-1980,other,United Kingdom,0,weight_within_normal_limits,8-10,51-100,high_ed,11-30
+897,F,Over 1980,other,United Kingdom,0,,1-2,Over 300,low_ed,Over 30
+898,M,Over 1980,Africa,United Kingdom,0,underweight,8-10,201-300,low_ed,0-5
+899,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,8-10,201-300,high_ed,Over 30
+900,F,Over 1980,America,United Kingdom,0,weight_within_normal_limits,6-7,201-300,low_ed,Over 30
+901,F,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,high_ed,0-5
+902,F,1955-1980,America,United Kingdom,0,,8-10,11-50,high_ed,Over 30
+903,M,1955-1980,Africa,United Kingdom,0,overweight,1-2,Over 300,low_ed,11-30
+904,F,,Europe,United Kingdom,0,underweight,8-10,Over 300,high_ed,6-10
+905,F,1955-1980,other,United Kingdom,0,underweight,0,Over 300,low_ed,0-5
+906,F,1955-1980,Africa,United Kingdom,0,overweight,3-5,101-200,low_ed,Over 30
+907,F,1955-1980,Asia,United Kingdom,0,,1-2,201-300,low_ed,11-30
+908,M,Over 1980,Africa,United Kingdom,0,,3-5,201-300,low_ed,Over 30
+909,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,101-200,low_ed,Over 30
+910,F,1955-1980,Asia,United Kingdom,0,,3-5,1-10,high_ed,6-10
+911,F,1955-1980,other,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,0-5
+912,M,Over 1980,other,United Kingdom,0,underweight,6-7,Over 300,high_ed,6-10
+913,M,1955-1980,America,United Kingdom,0,underweight,3-5,Over 300,high_ed,Over 30
+914,F,Over 1980,Asia,United Kingdom,0,overweight,6-7,201-300,low_ed,Over 30
+915,M,Over 1980,other,United Kingdom,0,,8-10,201-300,low_ed,11-30
+916,F,Over 1980,America,United Kingdom,0,,8-10,Over 300,low_ed,11-30
+917,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,8-10,201-300,low_ed,11-30
+918,M,Over 1980,Europe,United Kingdom,0,overweight,6-7,101-200,low_ed,11-30
+919,M,1955-1980,Europe,United Kingdom,0,overweight,8-10,101-200,high_ed,6-10
+920,M,1955-1980,Europe,United Kingdom,0,underweight,3-5,Over 300,high_ed,Over 30
+921,M,1955-1980,Asia,United Kingdom,0,underweight,3-5,11-50,high_ed,11-30
+922,M,Over 1980,America,United Kingdom,0,weight_within_normal_limits,3-5,101-200,low_ed,Over 30
+923,M,Over 1980,Africa,United Kingdom,0,,3-5,11-50,high_ed,11-30
+924,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,high_ed,Over 30
+925,F,1955-1980,Africa,United Kingdom,0,,3-5,201-300,low_ed,0-5
+926,M,Over 1980,Africa,United Kingdom,0,weight_within_normal_limits,6-7,51-100,high_ed,Over 30
+927,M,Over 1980,Africa,United Kingdom,0,overweight,1-2,51-100,low_ed,11-30
+928,M,1955-1980,Africa,United Kingdom,0,underweight,1-2,51-100,high_ed,11-30
+929,F,1955-1980,Asia,United Kingdom,0,overweight,0,101-200,low_ed,6-10
+930,F,1955-1980,Asia,United Kingdom,0,underweight,0,Over 300,low_ed,0-5
+931,M,1955-1980,Europe,United Kingdom,0,,3-5,201-300,low_ed,Over 30
+932,F,1955-1980,Asia,United Kingdom,0,overweight,8-10,201-300,low_ed,Over 30
+933,F,1955-1980,other,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+934,F,1955-1980,Europe,United Kingdom,0,overweight,3-5,Over 300,low_ed,Over 30
+935,M,1955-1980,Asia,United Kingdom,0,,0,Over 300,low_ed,0-5
+936,F,1955-1980,other,United Kingdom,0,weight_within_normal_limits,8-10,101-200,low_ed,Over 30
+937,M,1955-1980,America,United Kingdom,0,,3-5,Over 300,low_ed,Over 30
+938,F,,America,United Kingdom,0,underweight,8-10,Over 300,low_ed,Over 30
+939,F,1955-1980,Europe,United Kingdom,0,,1-2,201-300,high_ed,Over 30
+940,F,1955-1980,other,United Kingdom,0,weight_within_normal_limits,1-2,201-300,low_ed,Over 30
+941,M,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,Over 30
+942,M,Over 1980,other,United Kingdom,0,overweight,3-5,Over 300,high_ed,Over 30
+943,M,1955-1980,America,United Kingdom,0,underweight,8-10,Over 300,low_ed,Over 30
+944,M,1955-1980,Europe,United Kingdom,0,,6-7,Over 300,low_ed,Over 30
+945,M,1955-1980,other,United Kingdom,0,,3-5,51-100,high_ed,11-30
+946,M,Over 1980,Europe,United Kingdom,0,,6-7,101-200,low_ed,11-30
+947,F,1955-1980,Europe,United Kingdom,0,,3-5,201-300,low_ed,6-10
+948,M,Over 1980,Africa,United Kingdom,0,overweight,1-2,Over 300,high_ed,11-30
+949,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,101-200,high_ed,11-30
+950,M,Over 1980,Africa,United Kingdom,0,underweight,3-5,Over 300,low_ed,11-30
+951,M,1955-1980,Europe,United Kingdom,0,weight_within_normal_limits,3-5,101-200,high_ed,Over 30
+952,F,1955-1980,Europe,United Kingdom,0,,3-5,Over 300,high_ed,Over 30
+953,F,1955-1980,America,United Kingdom,0,overweight,3-5,101-200,low_ed,Over 30
+954,F,1955-1980,America,United Kingdom,0,overweight,1-2,51-100,high_ed,0-5
+955,F,Over 1980,Europe,United Kingdom,0,,1-2,201-300,high_ed,11-30
+956,F,1955-1980,America,United Kingdom,0,weight_within_normal_limits,3-5,201-300,low_ed,11-30
+957,F,Over 1980,other,United Kingdom,0,overweight,1-2,Over 300,high_ed,11-30
+958,M,1955-1980,Asia,United Kingdom,0,underweight,8-10,Over 300,high_ed,11-30
+959,M,1955-1980,other,United Kingdom,1,,3-5,1-10,high_ed,11-30
+960,M,Over 1980,Africa,United Kingdom,0,overweight,3-5,201-300,high_ed,Over 30
+961,M,1955-1980,Europe,United Kingdom,0,underweight,3-5,101-200,high_ed,11-30
+962,F,Over 1980,Asia,United Kingdom,0,,8-10,Over 300,low_ed,11-30
+963,F,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,1-2,101-200,low_ed,11-30
+964,M,1955-1980,other,United Kingdom,1,weight_within_normal_limits,0,Over 300,low_ed,Over 30
+965,M,Over 1980,Europe,United Kingdom,0,underweight,6-7,51-100,low_ed,11-30
+966,M,1955-1980,Asia,United Kingdom,0,,8-10,Over 300,low_ed,Over 30
+967,F,1955-1980,Africa,United Kingdom,0,,1-2,201-300,high_ed,Over 30
+968,F,1955-1980,Europe,United Kingdom,0,,3-5,Over 300,low_ed,Over 30
+969,M,1955-1980,Asia,United Kingdom,0,underweight,8-10,51-100,high_ed,Over 30
+970,M,Over 1980,America,United Kingdom,0,,8-10,101-200,low_ed,Over 30
+971,F,1955-1980,other,United Kingdom,0,,3-5,Over 300,low_ed,6-10
+972,F,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,6-7,Over 300,high_ed,Over 30
+973,M,1955-1980,America,United Kingdom,0,,8-10,Over 300,low_ed,11-30
+974,M,1955-1980,Asia,United Kingdom,0,underweight,1-2,Over 300,low_ed,11-30
+975,F,1955-1980,Asia,United Kingdom,0,underweight,6-7,51-100,low_ed,0-5
+976,M,1955-1980,Africa,United Kingdom,0,underweight,1-2,11-50,high_ed,6-10
+977,F,Over 1980,Europe,United Kingdom,0,underweight,8-10,11-50,high_ed,6-10
+978,M,Over 1980,Asia,United Kingdom,0,underweight,0,Over 300,high_ed,11-30
+979,F,1955-1980,other,United Kingdom,0,weight_within_normal_limits,8-10,Over 300,high_ed,11-30
+980,M,1955-1980,other,United Kingdom,0,underweight,8-10,Over 300,low_ed,6-10
+981,M,Over 1980,Europe,United Kingdom,0,,6-7,11-50,low_ed,6-10
+982,F,Over 1980,Asia,United Kingdom,0,underweight,8-10,Over 300,low_ed,Over 30
+983,F,Over 1980,other,United Kingdom,0,,8-10,11-50,high_ed,Over 30
+984,M,1955-1980,Africa,United Kingdom,0,underweight,3-5,51-100,low_ed,Over 30
+985,M,1955-1980,other,United Kingdom,0,underweight,3-5,Over 300,low_ed,Over 30
+986,M,1955-1980,Asia,United Kingdom,0,underweight,8-10,201-300,low_ed,Over 30
+987,F,1955-1980,Europe,United Kingdom,0,underweight,3-5,Over 300,high_ed,Over 30
+988,F,Over 1980,other,United Kingdom,0,,3-5,Over 300,low_ed,6-10
+989,F,Over 1980,Asia,United Kingdom,0,weight_within_normal_limits,8-10,51-100,low_ed,11-30
+990,F,Over 1980,America,United Kingdom,0,weight_within_normal_limits,3-5,Over 300,low_ed,11-30
+991,F,Over 1980,Europe,United Kingdom,0,overweight,0,Over 300,low_ed,6-10
+992,F,Over 1980,America,United Kingdom,0,,6-7,51-100,low_ed,6-10
+993,M,1955-1980,other,United Kingdom,1,weight_within_normal_limits,3-5,101-200,low_ed,0-5
+994,M,1955-1980,America,United Kingdom,0,,8-10,201-300,low_ed,6-10
+995,M,1955-1980,Asia,United Kingdom,0,weight_within_normal_limits,1-2,201-300,low_ed,11-30
+996,M,Over 1980,Europe,United Kingdom,0,underweight,8-10,Over 300,low_ed,Over 30
+997,F,1955-1980,Africa,United Kingdom,0,weight_within_normal_limits,0,51-100,low_ed,Over 30
+998,F,1955-1980,Europe,United Kingdom,0,,3-5,Over 300,high_ed,Over 30
+999,M,1955-1980,America,United Kingdom,0,,0,11-50,high_ed,Over 30
